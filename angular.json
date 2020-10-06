@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "eswot-learning"
+    }
+  },
+  "defaultProject": "eswot-learning",
+  "cli": {
+    "analytics": "458bdf50-0e43-4087-8a0f-ca6695bfffa1"
+  }
 }
